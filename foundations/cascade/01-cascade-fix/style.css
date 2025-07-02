@@ -17,7 +17,9 @@ body {
   font-weight: 800;
 }
 
-
+:hover {
+  background-color: aqua
+}
 
 .button.confirm {
   background: green;
